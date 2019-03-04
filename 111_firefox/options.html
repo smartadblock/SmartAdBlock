@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>SmartAdBlock Options</title>
+<link rel="stylesheet" href="options.css"/> 
+<link rel="stylesheet" href="bundle.css"/> 
+</head>
+<body>
+
+<div class="header" style="font-size:25px;"><img width=30 class="borderimg" src="popup/sblockgreen.png" style="position:absolute;left:20px;top:20px;">SmartAdBlock Settings</div>
+<div id="warning" class="pd">Please do not add custom filters if you are not an advanced user. Adding filters can cause websites to break and your browser to slow down. SmartAdBlock original filters are designed to optimize speed and efficiency, if you want something changed please report it instead on <a target="blank" href="https://www.reddit.com/r/SmartAdBlock">reddit</a> or on the <a target="blank" href="https://www.smartadblock.co.uk">website</a>.</div>
+
+<div class="row bor pd text dark" style="height:70px;">
+                <div class="mbl">
+                  <a class="button-huge firm" id="reinit">
+                    Reload SmartAdBlock
+                    <span class="button-description">To refresh filters</span>
+                  </a>
+                </div>
+</div>
+
+<div class="row bor pd text dark" style="height:450px;">
+	<div class="row title mg">Add a Custom Filter Rule</div>
+	<div class="row">
+		<input type="text" id="inputrule" class="inputrule" placeholder="Enter an AdBlockPlus Syntax Rule"></input>
+		<button style="width:120px;"class="button positive" id="addrule">Add Rule</button>
+	</div>
+	<div class="row titlemin">Current Custom Active Rules</div>
+	<div class="row" style="height:280px;">
+		<select size=15 id="customrule" class="select customrule"  style="margin-bottom:20px;float:left;">
+		</select>
+		<div class="block pad">
+			<button style="width:120px;" class="button" id="removerule">Remove Rule</button>
+		</div>
+	</div>
+</div>
+
+<div class="row bor pd text dark" style="height:450px;">
+<div class="row title mg">Add a Custom Filter List URL <span style="font-size:14px">(Loading errors will be ignored)</span></div>
+<div class="row ">
+	<input  type="text" id="inputfilter" class="inputrule" placeholder="Enter a Filter List URL"></input>
+	<button  class="button positive" style="width:150px;"  id="addurl">Add Filer List URL</button>
+	</div>
+<div class="row titlemin">Current Custom Filter Lists</div>
+<div class="row" style="height:280px;">
+<select size=15 id="customfilter" class="customrule" style="margin-bottom:20px;float:left;">
+</select>
+<div class="block pad">
+<button class="button" style="width:150px;" id="removeurl">Remove Filter List</button>
+</div>
+</div>
+</div>
+
+
+<script src="options.js"></script>
+
+</body>
+</html>
