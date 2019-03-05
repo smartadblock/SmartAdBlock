@@ -12,4 +12,4 @@ Update log
 Improved the pre regex tests to decrease the average number of regex. Introduced light CSS injection for a number of high traffic websites.
 
 1.0.9
-Added custom filters, redesigned the popup, fixed the popup and switch in adult websites.
+Added custom filters, redesigned the popup, fixed the popup and switch in adult websites. Fixed some false positive popup block when using the popup link on high risk websites.
