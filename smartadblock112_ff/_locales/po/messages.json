@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "To jest strona lokalna"
+   },
+   "loc_two": {
+      "message": "SmartAdBlock jest nieaktywny na stronach lokalnych"
+   },
+   "dis": {
+      "message": "Wyłączyć"
+   },
+   "ena": {
+      "message": "Włączyć"
+   },
+   "on": {
+      "message": "na"
+   },
+   "hasblock": {
+      "message": "SmartAdBlock został zablokowany"
+   },
+   "request": {
+      "message": "żądanie"
+   },
+   "requests": {
+      "message": "żądanie"
+   },
+   "inactive": {
+      "message": "Funkcja SmartAdBlock jest wyłączona na tej stronie"
+   },
+   "suggestions": {
+      "message": "Propozycje"
+   },
+   "tips": {
+      "message": "Wskazówki"
+   },
+   "notapopup": {
+      "message": "Nie wyskakujące okienka? Kliknij tutaj, aby kliknąć ten link."
+   },
+   "blockedit": {
+      "message": "SmartAdBlock zablokował to."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "Najlepszy bloker reklamowy"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}

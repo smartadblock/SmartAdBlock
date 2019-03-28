@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>SmartAdBlock Options</title>
+<link rel="stylesheet" href="options.css"/> 
+<link rel="stylesheet" href="bundle.css"/> 
+</head>
+<body>
+
+<div class="header" style="font-size:25px;"><img width=50 class="nborderimg" src="icons/sabn128.png" style="position:absolute;left:20px;top:10px;">SmartAdBlock Settings</div>
+<div id="warning" class="pd">Please do not add custom filters if you are not an advanced user. Adding filters can cause websites to break and your browser to slow down. SmartAdBlock original filters are designed to optimize speed and efficiency, if you want something changed please report it instead on reddit or on the website.</div>
+
+<div class="row bor pd text dark" style="height:70px;min-width:700px;">
+                <div class="mbl">
+                  <a class="button-huge firm" id="reinit">
+                    Reload SmartAdBlock
+                    <span class="button-description">To refresh filters</span>
+                  </a>
+                </div>
+                <div class="mbl">
+                  <a class="button-huge" id="resetall">
+                    Reset All Custom Filters
+                    <span class="button-description">Back To Original Settings</span>
+                  </a>
+                </div>
+</div>
+
+<div class="row bor pd text dark longer" style="height:450px;">
+	<div class="row title mg">Add a Custom Filter Rule</div>
+	<div class="row">
+		<input type="text" id="inputrule" class="inputrule" placeholder="Enter an AdBlockPlus Syntax Rule"></input>
+		<button style="width:120px;"class="button positive" id="addrule">Add Rule</button>
+	</div>
+	<div class="row titlemin">Current Custom Active Rules</div>
+	<div class="row" style="height:280px;">
+		<select size=15 id="customrule" class="select customrule"  style="margin-bottom:20px;float:left;">
+		</select>
+		<div class="block pad">
+			<button style="width:120px;" class="button" id="removerule">Remove Rule</button>
+		</div>
+	</div>
+</div>
+
+<div class="row bor pd text dark longer" style="height:450px;">
+<div class="row title mg">Add a Custom Filter List URL <span style="font-size:14px">(Loading errors will be ignored)</span></div>
+<div class="row ">
+	<input  type="text" id="inputfilter" class="inputrule" placeholder="Enter a Filter List URL"></input>
+	<button  class="button positive" style="width:150px;"  id="addurl">Add Filer List URL</button>
+	</div>
+<div class="row titlemin">Current Custom Filter Lists</div>
+<div class="row" style="height:280px;">
+<select size=15 id="customfilter" class="customrule" style="margin-bottom:20px;float:left;">
+</select>
+<div class="block pad">
+<button class="button" style="width:150px;" id="removeurl">Remove Filter List</button>
+</div>
+</div>
+</div>
+
+
+<div class="row bor pd text dark" id="checklist" style="height:420px;">
+
+<div class="row title mg">Select Filter List <span style="font-size:14px">(Loading errors and duplicates will be ignored)</span></div>
+
+
+<div class="halfbox" >
+<span style="font-size:20px">Language Lists</span><br><br>
+<input type="checkbox" name="lar" value="fs">Adlist Russian<br>
+<input type="checkbox" name="leg" value="fs">Easylist Germany<br>
+<input type="checkbox" name="lei" value="fs">Easylist Italy<br>
+<input type="checkbox" name="led" value="fs" >Easylist Dutch<br>
+<input type="checkbox" name="lef" value="fs">Easylist French<br>
+<input type="checkbox" name="lec" value="fs" >Easylist China<br>
+<input type="checkbox" name="leb" value="fs" >Easylist Bulgaria<br>
+<input type="checkbox" name="lea" value="fs" >Easylist Arabic<br>
+<input type="checkbox" name="les" value="fs" >Easylist Czech Slovak<br>
+<input type="checkbox" name="lel" value="fs" >Easylist Latvian<br>
+<input type="checkbox" name="leh" value="fs" >Easylist Hebrew<br>
+<input type="checkbox" name="leli" value="fs" >Easylist Lithuania<br>
+<input type="checkbox" name="lein" value="fs" >Easylist Indonesia<br>
+</div>
+
+<div class="halfbox" >
+<span style="font-size:20px">Ad Filter Lists</span><br><br>
+<input type="checkbox" name="sab" value="sab" checked><strong>SmartAdBlock Filters (default)</strong><br>
+<input type="checkbox" name="el" value="el" checked><strong>EasyList (default)</strong><br>
+<input type="checkbox" name="fc" value="fc" checked><strong>Fanboy Cookie (default)</strong><br>
+<input type="checkbox" name="ep" value="ep">EasyPrivacy<br>
+<input type="checkbox" name="fa" value="fa" >FanBoy Annoyance List<br>
+<input type="checkbox" name="fs" value="fs" >FanBoy Social List<br>
+<input type="checkbox" name="ar" value="ar" >Adblock Warning Removal List<br>
+<input type="checkbox" name="pl" value="ar" >Peter Lowe's Ad and tracking server list<br>
+</div>
+
+ </div> 
+  
+<script src="options.js"></script>
+
+</body>
+</html>
