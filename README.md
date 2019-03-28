@@ -8,6 +8,11 @@ The V1.1.1 for firefox has no script execution as mozilla team requires all inje
 
 ## Update log
 
+## 1.1.2
+Corrected dutch and russian translations (Thanks to https://github.com/dsrev).
+Added custom filter choice via radio button system, added quick button to reload filters (right click icon -> reload filters)
+in Firefox 1.1.2 switched to jquery 3 following reviewers request, upgrade to jquery 3 in chrome will come in 1.1.3
+
 ## 1.1.1
 (only firefox) removed script injection to comply with firefox add on review requirements. In the v1.1.2 the injected scripts will be included in the package to comply with the request.
 
