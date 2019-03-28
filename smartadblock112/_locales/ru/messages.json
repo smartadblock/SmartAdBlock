@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "Это локальная страница"
+   },
+   "loc_two": {
+      "message": "SmartAdBlock не работает на локальных страницах"
+   },
+   "dis": {
+      "message": "Отключить"
+   },
+   "ena": {
+      "message": "Включить"
+   },
+   "on": {
+      "message": "на"
+   },
+   "hasblock": {
+      "message": "SmartAdBlock заблокировал"
+   },
+   "request": {
+      "message": "запрос"
+   },
+   "requests": {
+      "message": "запросов"
+   },
+   "inactive": {
+      "message": "SmartAdBlock отключен на этой странице"
+   },
+   "suggestions": {
+      "message": "Предложения"
+   },
+   "tips": {
+      "message": "Советы"
+   },
+   "notapopup": {
+      "message": "Не всплывающее окно? Нажмите здесь, чтобы перейти по этой ссылке."
+   },
+   "blockedit": {
+      "message": "SmartAdBlock заблокировал это."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "Последний блокировщик рекламы, который бы когда-либо пригодился вам"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}

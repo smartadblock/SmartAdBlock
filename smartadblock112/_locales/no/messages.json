@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "Dette er en lokal side"
+   },
+   "loc_two": {
+      "message": "SmartAdBlock er inaktiv på lokale sider"
+   },
+   "dis": {
+      "message": "Deaktiver"
+   },
+   "ena": {
+      "message": "Aktiver"
+   },
+   "on": {
+      "message": "på"
+   },
+   "hasblock": {
+      "message": "SmartAdBlock har blokkert"
+   },
+   "request": {
+      "message": "forespørsel"
+   },
+   "requests": {
+      "message": "forespørsler"
+   },
+   "inactive": {
+      "message": "SmartAdBlock er deaktivert på denne siden"
+   },
+   "suggestions": {
+      "message": "Forslag"
+   },
+   "tips": {
+      "message": "Tips"
+   },
+   "notapopup": {
+      "message": "Ikke en popup? Klikk her for å følge denne linken."
+   },
+   "blockedit": {
+      "message": "SmartAdBlock blokkerte det."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "Den siste Adblocker du trenger"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}
