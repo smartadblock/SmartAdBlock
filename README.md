@@ -6,7 +6,7 @@ But here you go, open source github enjoy!
 
 ## Update log
 
-## 1.1.2
+## 1.1.3
 Both versions are now upgraded to jquery 3.0. Added counter measures to defuse a lot of popups before they are triggered (openload - kissanime and others). Added parsing options for a more subtle block detection.
 
 ## 1.1.2
