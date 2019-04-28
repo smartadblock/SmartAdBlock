@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "Tämä on paikallinen sivu"
+   },
+   "loc_two": {
+      "message": "SmartAdBlock ei ole käytössä paikallisilla sivuilla"
+   },
+   "dis": {
+      "message": "Poista käytöstä"
+   },
+   "ena": {
+      "message": "ota käyttöön"
+   },
+   "on": {
+      "message": "päällä"
+   },
+   "hasblock": {
+      "message": "SmartAdBlock on estetty"
+   },
+   "request": {
+      "message": "pyyntö"
+   },
+   "requests": {
+      "message": "pyynnöt"
+   },
+   "inactive": {
+      "message": "SmartAdBlock on poistettu käytöstä tällä sivulla"
+   },
+   "suggestions": {
+      "message": "Ehdotukset"
+   },
+   "tips": {
+      "message": "vinkkejä"
+   },
+   "notapopup": {
+      "message": "Ei ponnahdusikkuna? Napsauta tätä seuraamalla tätä linkkiä."
+   },
+   "blockedit": {
+      "message": "SmartAdBlock estää sen."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "Viimeinen Adblocker tarvitset"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}
