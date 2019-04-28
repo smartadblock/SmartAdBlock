@@ -4,9 +4,10 @@
 Note to readers: Since the beginning smartadblock code was available to everyone unobfuscated and easy to read as any browser extension can be read.
 But here you go, open source github enjoy!
 
-The V1.1.1 for firefox has no script execution as mozilla team requires all injected script to be included (request received on 4th March). This is an urgent quick fix to keep smartadblock available on the mozilla store until we develop a better method for firefox.
-
 ## Update log
+
+## 1.1.2
+Both versions are now upgraded to jquery 3.0. Added counter measures to defuse a lot of popups before they are triggered (openload - kissanime and others). Added parsing options for a more subtle block detection.
 
 ## 1.1.2
 Corrected dutch and russian translations (Thanks to https://github.com/dsrev).
