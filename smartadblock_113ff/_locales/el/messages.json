@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "Αυτή είναι μια τοπική σελίδα"
+   },
+   "loc_two": {
+      "message": "Το SmartAdBlock είναι ανενεργό σε τοπικές σελίδες"
+   },
+   "dis": {
+      "message": "Καθιστώ ανίκανο"
+   },
+   "ena": {
+      "message": "επιτρέπω"
+   },
+   "on": {
+      "message": "επί"
+   },
+   "hasblock": {
+      "message": "Το SmartAdBlock έχει μπλοκαριστεί"
+   },
+   "request": {
+      "message": "αίτηση"
+   },
+   "requests": {
+      "message": "αιτήσεων"
+   },
+   "inactive": {
+      "message": "Το SmartAdBlock είναι απενεργοποιημένο σε αυτή τη σελίδα"
+   },
+   "suggestions": {
+      "message": "Προτάσεις"
+   },
+   "tips": {
+      "message": "Συμβουλές"
+   },
+   "notapopup": {
+      "message": "Δεν είναι αναδυόμενο παράθυρο; Κάντε κλικ εδώ για να ακολουθήσετε αυτόν τον σύνδεσμο."
+   },
+   "blockedit": {
+      "message": "Το SmartAdBlock το εμπόδισε."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "Το τελευταίο Adblocker θα χρειαστείτε ποτέ"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}
