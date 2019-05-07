@@ -1,9 +1,6 @@
 # SmartAdBlock
 ## SmartAdBlock project
 
-Note to readers: Since the beginning smartadblock code was available to everyone unobfuscated and easy to read as any browser extension can be read.
-But here you go, open source github enjoy!
-
 ## Update log
 
 ## 1.1.3
