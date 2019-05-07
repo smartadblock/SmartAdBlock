@@ -1,5 +1,4 @@
-# SmartAdBlock
-## SmartAdBlock project
+# SmartAdBlock Project
 
 ## Update log
 
