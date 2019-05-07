@@ -1,6 +1,6 @@
 # SmartAdBlock Project
 
-SmartAdBlock is a performant adblocker coupled with a strong popup blocker.
+SmartAdBlock is a light and performant adblocker coupled with a strong popup blocker.
 Blocks ads, cookie/privacy/GDPR warnings and blocks trackers for a smooth web browsing experience.
 Available for Firefox and Chrome
 
