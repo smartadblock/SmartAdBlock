@@ -9,7 +9,7 @@ Available for Firefox and Chrome
 ## Update log
 
 ## 1.1.4
-Last filters are now stored for a faster load when opening the browser, refreshing filters is now processed in the background and do not interrupt adblocking (thanks to kees for the feedback on this matter). Corrected finnish translation (thanks Joni for the translation). Added some filters to the quick selection Wstech200 Disconnect Malware and adguard. Restoring filters from storage improved the memory footprint to 11.9Mb when idle.
+Last filters are now stored for a faster load when opening the browser, refreshing filters is now processed in the background and does not interrupt adblocking activities (thanks to kees for the feedback on this matter). Corrected finnish translation (thanks Joni for the translation). Added some filters to the quick selection Wstech200 Disconnect Malware and adguard. Restoring filters from storage improved the memory footprint to 11.9Mb when idle.
 
 ## 1.1.3
 Both versions are now upgraded to jquery 3.0. Added counter measures to defuse a lot of popups before they are triggered (openload - kissanime and others). Fixed a false positive popup detection on some websites when using the mouse middle button. Added parsing options for a more subtle block detection.
