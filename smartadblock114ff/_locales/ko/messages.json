@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "이것은 로컬 페이지입니다."
+   },
+   "loc_two": {
+      "message": "SmartAdBlock이 로컬 페이지에서 비활성화되어 있습니다."
+   },
+   "dis": {
+      "message": "사용 안함"
+   },
+   "ena": {
+      "message": "사용"
+   },
+   "on": {
+      "message": "...에"
+   },
+   "hasblock": {
+      "message": "SmartAdBlock이 차단되었습니다."
+   },
+   "request": {
+      "message": "의뢰"
+   },
+   "requests": {
+      "message": "요청"
+   },
+   "inactive": {
+      "message": "이 페이지에서 SmartAdBlock이 비활성화되었습니다."
+   },
+   "suggestions": {
+      "message": "제안"
+   },
+   "tips": {
+      "message": "팁"
+   },
+   "notapopup": {
+      "message": "팝업이 아닌가요? 이 링크를 클릭하려면 여기를 클릭하십시오."
+   },
+   "blockedit": {
+      "message": "SmartAdBlock이 차단했습니다."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "마지막으로 필요로하는 Adblocker"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}

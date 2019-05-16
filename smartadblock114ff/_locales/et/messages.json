@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "See on kohalik leht"
+   },
+   "loc_two": {
+      "message": "SmartAdBlock on kohalike lehtede jaoks mitteaktiivne"
+   },
+   "dis": {
+      "message": "Keela"
+   },
+   "ena": {
+      "message": "Luba"
+   },
+   "on": {
+      "message": "on"
+   },
+   "hasblock": {
+      "message": "SmartAdBlock on blokeeritud"
+   },
+   "request": {
+      "message": "taotlus"
+   },
+   "requests": {
+      "message": "taotlusi"
+   },
+   "inactive": {
+      "message": "SmartAdBlock on sellel lehel keelatud"
+   },
+   "suggestions": {
+      "message": "Ettepanekud"
+   },
+   "tips": {
+      "message": "Näpunäited"
+   },
+   "notapopup": {
+      "message": "Pole popup? Sellel lingil järgmiseks klõpsake siin."
+   },
+   "blockedit": {
+      "message": "SmartAdBlock blokeeris seda."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "Viimane Adblocker, mida te vajate"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}
