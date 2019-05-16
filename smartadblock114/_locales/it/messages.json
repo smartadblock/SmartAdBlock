@@ -1,0 +1,63 @@
+{
+   "loc_one": {
+      "message": "Questa è una pagina locale"
+   },
+   "loc_two": {
+      "message": "SmartAdBlock non è attivo nelle pagine locali"
+   },
+   "dis": {
+      "message": "Disattivare"
+   },
+   "ena": {
+      "message": "Abilitare"
+   },
+   "on": {
+      "message": "sopra"
+   },
+   "hasblock": {
+      "message": "SmartAdBlock è bloccato"
+   },
+   "request": {
+      "message": "richiesta"
+   },
+   "requests": {
+      "message": "richieste"
+   },
+   "inactive": {
+      "message": "SmartAdBlock è disabilitato su questa pagina"
+   },
+   "suggestions": {
+      "message": "Suggerimenti"
+   },
+   "tips": {
+      "message": "Bug"
+   },
+   "notapopup": {
+      "message": "Non un popup? Clicca qui per seguire questo link."
+   },
+   "blockedit": {
+      "message": "SmartAdBlock lo ha bloccato."
+   },
+   "extensionDescription": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock"
+   },
+   "extensionName": {
+      "description": "SmartAdBlock Extension",
+      "message": "L'ultimo blocco pubblicitario"
+   },
+   "notificationContent": {
+      "description": "SmartAd Blocker - Pop up blocker",
+      "message": "SmartAd Blocker - Pop up blocker",
+      "placeholders": {
+         "url": {
+            "content": "SmartAd Blocker",
+            "example": "SmartAd Blocker"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "SmartAdBlock Extension",
+      "message": "SmartAdBlock Extension"
+   }
+}
